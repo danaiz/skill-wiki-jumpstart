@@ -47,7 +47,7 @@ A few ideas carry the design:
 
 ## Read the story behind it
 
-[The Skill Wiki: How We Made Our Agents More Intelligent, Relevant, and Easy to Build](LINK-TO-ARTICLE): how VisionHeight runs internal knowledge and five production agents from one skill wiki, and how a half-day debugging job became thirty minutes.
+[The Skill Wiki: Write Your Company Down Once, for Every AI You Use](https://www.visionheight.com/resources/the-skill-wiki): how VisionHeight runs internal knowledge and five production agents from one skill wiki, and how a half-day debugging job became thirty minutes.
 
 ## Contributing
 
